@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhineet</h1>
 <h3 align="center">I am a data storyteller, decoding numbers to uncover insights and spark impactful change</h3>
 
-<image align="right" alt="data analysis" width="400" src="![image](https://github.com/user-attachments/assets/7d2a6b82-4c1b-40ae-846f-2776159011ca)">
+<image align="right" alt="data analysis" width="400" src="![image](https://github.com/user-attachments/assets/b5c1e798-6f47-4ddf-8a66-19aa5e6090e6)"
+
 
 
 
