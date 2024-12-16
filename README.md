@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abhineet</h1>
 <h3 align="center">I am a data storyteller, decoding numbers to uncover insights and spark impactful change</h3>
 
+<image align="right" alt="data analysis" width="400" src="![image](https://github.com/user-attachments/assets/7d2a6b82-4c1b-40ae-846f-2776159011ca)">
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhineet15th&label=Profile%20views&color=0e75b6&style=flat" alt="abhineet15th" /> </p>
 
 - 🌱 I’m currently learning **Advanced machine learning, Data engineering, Deep learning, Data storytelling techniques.**
